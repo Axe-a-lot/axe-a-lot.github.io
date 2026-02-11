@@ -8,7 +8,9 @@
       "namespace": "android_app",
       "package_name": "com.axealot.mycashback",
       "sha256_cert_fingerprints": [
-        "E1:0B:5F:C0:33:C2:91:C3:E5:45:C4:56:DE:43:8D:76:21:77:07:46:EB:B8:92:E3:96:A4:E2:1D:53:25:6E:60"
+        "E1:0B:5F:C0:33:C2:91:C3:E5:45:C4:56:DE:43:8D:76:21:77:07:46:EB:B8:92:E3:96:A4:E2:1D:53:25:6E:60",
+        "4A:A6:78:DE:99:C2:67:BE:73:8D:64:FE:CE:F5:8F:05:5C:4F:5D:52:77:C2:4D:B8:DE:2D:AB:D7:0C:30:9A:49",
+        "6A:2C:6E:6E:7F:A9:ED:44:54:4F:78:64:AC:B3:CC:42:2D:60:82:5A:E2:32:10:FC:D4:DD:3F:58:0A:7E:C8:40"
       ]
     }
   }
