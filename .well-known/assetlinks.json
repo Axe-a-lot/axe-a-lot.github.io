@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.axealot.mycashback",
+      "sha256_cert_fingerprints": [
+        "E1:0B:5F:C0:33:C2:91:C3:E5:45:C4:56:DE:43:8D:76:21:77:07:46:EB:B8:92:E3:96:A4:E2:1D:53:25:6E:60"
+      ]
+    }
+  }
+]
